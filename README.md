@@ -1,1 +1,1 @@
-# Currency-generator
+# Currency-Converter
